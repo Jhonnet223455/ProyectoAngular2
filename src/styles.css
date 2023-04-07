@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+html,body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+.wrapper{
+  background-color: #A569BD  ;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo{
+ height: 170px;
+ margin-bottom: 10px;
+}
+
+.body {
+  background-color: #51566a;
+  width: 100%;
+  max-width: 330px;
+  padding: 30px;
+  margin: auto;
+  text-align: center;
+  height: 500px;
+  border-radius: 10px;
+  justify-content: center;
+}
